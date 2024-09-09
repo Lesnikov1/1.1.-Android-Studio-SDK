@@ -1,4 +1,4 @@
-package ru.netology.nmedia;
+package ru.netology.first;
 
 import android.os.Bundle;
 

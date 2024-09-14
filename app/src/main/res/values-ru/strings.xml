@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Перовое</string>
-    <string name="company">НМедиа</string>
+    <string name="company1">НМедиа</string>
+    <string name="company2">Текст</string>
 </resources>
